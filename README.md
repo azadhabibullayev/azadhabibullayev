@@ -1,5 +1,5 @@
 # 👋 Salam, Mən Azad Həbibullayev
-### Senior Full Stack & Multi-Platform Developer (6+ il təcrübə)
+### Full Stack & Multi-Platform Developer (6+ il təcrübə)
 
 - 🛠 **Stack:** Laravel, Node.js, SvelteKit, Flutter, Rust / Tauri, WebRTC
 - 📍 **Məkan:** Bakı, Azərbaycan
